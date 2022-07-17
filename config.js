@@ -4,9 +4,9 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 858-2234-7348', 'Hyzer'],
-  ['+62 858-2234-7348'],
-  ['+62 858-2234-7348']
+  ['+62 821-3872-9360', 'Dreki-MD'],
+  ['+62 821-3872-9360'],
+  ['+62 815-7467-3521']
 ]
 
 
@@ -50,14 +50,14 @@ global.APIKeys = { // APIKey Here
 */
 
 // Sticker WM
-global.packname = `\t\t「 ArullOfc 」\n\t\t「 IG: sahrulwara_____ 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 DrekkOfc 」\n\t\t「 IG: sahrulwara_____ 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'ArullBotz'
+global.me = 'DrekiBotz'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
